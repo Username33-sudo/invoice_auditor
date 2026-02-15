@@ -1,0 +1,9 @@
+requests
+python-dotenv
+pdf2image
+pytesseract
+PyPDF2
+opencv-python
+numpy
+pillow
+fitz
